@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\d2002\\desktop\\medii si platforme de dezvoltare avansate\\animalsounds\\animalsounds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\d2002\\desktop\\medii si platforme de dezvoltare avansate\\animalsounds\\animalsounds\\types\\animaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\types\\animaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\d2002\\desktop\\medii si platforme de dezvoltare avansate\\animalsounds\\animalsounds\\types\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\types\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\d2002\\desktop\\medii si platforme de dezvoltare avansate\\animalsounds\\animalsounds\\types\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\types\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\d2002\\desktop\\medii si platforme de dezvoltare avansate\\animalsounds\\animalsounds\\types\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A72205-19A2-4EBD-9389-485CCCFD6B07}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\types\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\Cow.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Types\\Cow.cs",
+              "ToolTip": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\Cow.cs",
+              "RelativeToolTip": "AnimalSounds\\Types\\Cow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:50:45.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\Duck.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Types\\Duck.cs",
+              "ToolTip": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\Duck.cs",
+              "RelativeToolTip": "AnimalSounds\\Types\\Duck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:50:34.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\Lion.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Types\\Lion.cs",
+              "ToolTip": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\Lion.cs",
+              "RelativeToolTip": "AnimalSounds\\Types\\Lion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:50:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalType.cs",
+              "DocumentMoniker": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\AnimalType.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Types\\AnimalType.cs",
+              "ToolTip": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Types\\AnimalType.cs",
+              "RelativeToolTip": "AnimalSounds\\Types\\AnimalType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:50:10.032Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +93,7 @@
               "RelativeDocumentMoniker": "AnimalSounds\\Program.cs",
               "ToolTip": "C:\\Users\\D2002\\Desktop\\Medii si platforme de dezvoltare avansate\\AnimalSounds\\AnimalSounds\\Program.cs",
               "RelativeToolTip": "AnimalSounds\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T20:40:41.906Z",
               "EditorCaption": ""
