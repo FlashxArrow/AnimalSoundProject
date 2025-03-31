@@ -1,0 +1,7 @@
+C:\Users\D2002\Desktop\Medii si platforme de dezvoltare avansate\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+C:\Users\D2002\Desktop\Medii si platforme de dezvoltare avansate\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe
+C:\Users\D2002\Desktop\Medii si platforme de dezvoltare avansate\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.pdb
+C:\Users\D2002\Desktop\Medii si platforme de dezvoltare avansate\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.AssemblyReference.cache
+C:\Users\D2002\Desktop\Medii si platforme de dezvoltare avansate\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\D2002\Desktop\Medii si platforme de dezvoltare avansate\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.exe
+C:\Users\D2002\Desktop\Medii si platforme de dezvoltare avansate\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.pdb
