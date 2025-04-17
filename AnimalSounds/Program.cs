@@ -15,9 +15,10 @@ class Program
 
         foreach (var animal in animals)
         {
-            Console.WriteLine($"{animal.Name} makes sound: {animal.MakeSound()}");
-            animal.Feed(6);
             Console.WriteLine(animal.MakeSound());
+            animal.Feed(6);
+            Console.WriteLine($"{animal.Name} makes sound: {animal.MakeSound()}");
+            
         }
     }
 }

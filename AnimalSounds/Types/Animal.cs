@@ -5,7 +5,7 @@ namespace AnimalSoundsApp.Types
     public abstract class Animal
     {
         // Numai subclasele pot accesa direct
-        private int hungerLevel = 5; // 0 = plin, 10 = foame maximă
+        private int hungerLevel = 6; // 0 = plin, 10 = foame maximă
 
         public string Name => GetType().Name;
 
