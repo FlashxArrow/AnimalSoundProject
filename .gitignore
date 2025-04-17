@@ -1,0 +1,17 @@
+# Ignore Visual Studio folders and files
+.vs/
+.vs2019/
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore specific Visual Studio-related files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore other temporary files
+*.cache
+*.tmp
